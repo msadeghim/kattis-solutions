@@ -5,3 +5,4 @@
 - string
 - split
 - map
+- output formating
